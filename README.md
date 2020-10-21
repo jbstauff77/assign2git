@@ -3,6 +3,7 @@ John Stauffer/jbstauff
 
 First Comment
 
+This is a change on new branch
+
 test branch change
 
-This is a change on new branch
